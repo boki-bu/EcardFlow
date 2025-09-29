@@ -7,11 +7,23 @@
         <mxCell id="5o3M67hcCIXp2R0ZWf0G-1" value="消費機開機" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5o3M67hcCIXp2R0ZWf0G-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5o3M67hcCIXp2R0ZWf0G-3" value="狀態初始化" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="320" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5o3M67hcCIXp2R0ZWf0G-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5o3M67hcCIXp2R0ZWf0G-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5o3M67hcCIXp2R0ZWf0G-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5o3M67hcCIXp2R0ZWf0G-7" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5o3M67hcCIXp2R0ZWf0G-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.26000213623046875;arrowSize=0.399998779296875;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
