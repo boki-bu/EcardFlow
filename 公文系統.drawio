@@ -10,8 +10,8 @@
         <mxCell id="J1ccRQcXASDOLvBRj7ng-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ITSM要做-1&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;標記PDF的JS方法，提供給公文系統，讓其能夠對發起的PDF做標記&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;注：前提條件是公文系統要能夠提供加解密的方法，以及在線編輯保存的樣例&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="135" width="708" x="122" y="525" as="geometry" />
         </mxCell>
-        <mxCell id="J1ccRQcXASDOLvBRj7ng-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ITSM要做-2&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;公文系統要能夠提供加解密的方法，並且可以對PDF有編輯保存權限；提供對PDF打Tag的JS方法&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;標記好的PDF檔，提供簽核時打Tag或編輯PDF的JS方法&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="778" x="122" y="690" as="geometry" />
+        <mxCell id="J1ccRQcXASDOLvBRj7ng-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ITSM要做-2&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;公文系統要能夠提供加解密的方法，並且可以對PDF有編輯保存權限；提供對PDF打Tag的JS方法，保存並刪除本地文件，傳送給公文系統接口&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;標記好的PDF檔，提供簽核時打Tag或編輯PDF的JS方法&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="1032" x="122" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
