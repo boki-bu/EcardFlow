@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.3.1">
+  <diagram name="第 1 页" id="ioN5b5UcHIO412uGq6JH">
+    <mxGraphModel dx="1546" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SboTgLshMatgm59Nr0L7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="結賬平臺&lt;div&gt;老曹&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="收錢吧設備" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="收錢吧小程序" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="餐飲服務&lt;div&gt;三處-鄭州&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-5" edge="1" parent="1" source="SboTgLshMatgm59Nr0L7-6" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="70" y="411" as="sourcePoint" />
+            <mxPoint x="120" y="361" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="錄入資料" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="SboTgLshMatgm59Nr0L7-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="119.5" y="300" as="sourcePoint" />
+            <mxPoint x="119.5" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SboTgLshMatgm59Nr0L7-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="195" as="sourcePoint" />
+            <mxPoint x="560.5" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SboTgLshMatgm59Nr0L7-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="570" y="360" as="sourcePoint" />
+            <mxPoint x="620" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.577;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="SboTgLshMatgm59Nr0L7-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="470" as="sourcePoint" />
+            <mxPoint x="560" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-11" edge="1" parent="1" source="SboTgLshMatgm59Nr0L7-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="SboTgLshMatgm59Nr0L7-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="290" y="270" as="sourcePoint" />
+            <mxPoint x="190" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="賬務/會計" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SboTgLshMatgm59Nr0L7-13" edge="1" parent="1" source="SboTgLshMatgm59Nr0L7-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="170" as="sourcePoint" />
+            <mxPoint x="570" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
